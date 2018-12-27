@@ -6,11 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mvnMyPlugin" />
+        <module name="function" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="mvnMyPlugin" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
